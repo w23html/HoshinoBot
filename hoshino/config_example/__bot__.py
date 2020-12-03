@@ -38,7 +38,7 @@ MODULES_ON = {
     # 'kancolle',
     # 'mikan',
     # 'pcrclanbattle',
-    # 'priconne',
+    'priconne',
     # 'setu',
     # 'translate',
     # 'twitter',
