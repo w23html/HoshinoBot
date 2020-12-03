@@ -10,7 +10,7 @@ HOST = '127.0.0.1'      # 本地部署使用此条配置（QQ客户端和bot端�
 
 DEBUG = False           # 调试模式
 
-SUPERUSERS = [10000]    # 填写超级用户的QQ号，可填多个用半角逗号","隔开
+SUPERUSERS = [1819669596]    # 填写超级用户的QQ号，可填多个用半角逗号","隔开
 NICKNAME = ''           # 机器人的昵称。呼叫昵称等同于@bot，可用元组配置多个昵称
 
 COMMAND_START = {''}    # 命令前缀（空字符串匹配任何消息）
@@ -37,8 +37,8 @@ MODULES_ON = {
     # 'hourcall',
     # 'kancolle',
     # 'mikan',
-    'pcrclanbattle',
-    'priconne',
+    # 'pcrclanbattle',
+    # 'priconne',
     # 'setu',
     # 'translate',
     # 'twitter',
